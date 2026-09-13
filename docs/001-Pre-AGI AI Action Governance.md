@@ -34,6 +34,10 @@ The objective is to make powerful machine action governable before intelligence 
 
 ---
 
+![Pre-AGI AI Action Governance Grand Map.png](../figures/Pre-AGI AI Action Governance Grand Map.png)
+
+---
+
 # 1. The Governance Problem Is Arriving Before AGI
 
 The dominant AI safety narrative often follows a progression such as:

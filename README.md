@@ -106,6 +106,10 @@ We call this the **AI Action Configuration**.
 
 ---
 
+![Pre-AGI AI Action Governance Grand Map.png](figures/Pre-AGI AI Action Governance Grand Map.png)
+
+---
+
 # The Governance Target Selection Problem
 
 Before regulating AI, policymakers must first identify the correct object of regulation.
