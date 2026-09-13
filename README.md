@@ -106,7 +106,7 @@ We call this the **AI Action Configuration**.
 
 ---
 
-![Pre-AGI AI Action Governance Grand Map.png](figures/Pre-AGI AI Action Governance Grand Map.png)
+![Pre-AGI-AI-Action-Governance-Grand-Map.png](figures/Pre-AGI-AI-Action-Governance-Grand-Map.png)
 
 ---
 

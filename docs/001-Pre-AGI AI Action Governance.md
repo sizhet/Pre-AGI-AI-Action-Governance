@@ -34,7 +34,7 @@ The objective is to make powerful machine action governable before intelligence 
 
 ---
 
-![Pre-AGI AI Action Governance Grand Map.png](../figures/Pre-AGI AI Action Governance Grand Map.png)
+![Pre-AGI-AI-Action-Governance-Grand-Map.png](../figures/Pre-AGI-AI-Action-Governance-Grand-Map.png)
 
 ---
 
