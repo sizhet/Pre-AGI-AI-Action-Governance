@@ -1060,7 +1060,7 @@ Scale Looping
 
 ---
 
-# Core Articles
+# Core Articles and Strategic Discussion Note
 
 ## 1. Pre-AGI AI Action Governance
 
@@ -1155,7 +1155,7 @@ and establishes:
 
 ---
 
-## 6. Competitive AI Governance: Capability Limits vs Action Limits
+## 6. Competitive AI Governance: Capability Limits vs Action Limits (a Strategic Discussion Note)
 
 `06-Competitive-AI-Governance-Capability-Limits-vs-Action-Limits.md`
 

@@ -637,19 +637,25 @@ For high-impact autonomous AI:
 
 # Included Core Documents
 
-Version 1.0.0 introduces five primary research documents:
+Version 1.0.0 introduces five primary research documents + one strategic discussion note:
+
+### Primary Research Documents:
 
 ```text
 01-Pre-AGI-AI-Action-Governance.md
 
-02- Scale-Looping-Power-and-Pre-AGI-Risk.md
+02-Scale-Looping-Power-and-Pre-AGI-Risk.md
 
 03-AI-Action-Accountability-Stack.md
 
 04-Autonomous-Impact-Threshold.md
 
 05-The-Governance-Target-Selection-Problem.md
+```
 
+### Strategic Discussion Note：
+
+```text
 06-Competitive-AI-Governance-Capability-Limits-vs-Action-Limits.md
 ```
 
