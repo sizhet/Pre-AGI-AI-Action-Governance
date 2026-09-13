@@ -1155,6 +1155,24 @@ and establishes:
 
 ---
 
+## 6. Competitive AI Governance: Capability Limits vs Action Limits
+
+`06-Competitive-AI-Governance-Capability-Limits-vs-Action-Limits.md`
+
+AI competition may increase risk. But the same competition may also create pressure to govern dangerous AI action more precisely rather than broadly restricting AI capability development.
+
+> **Capability competition makes unilateral "limits on intelligence" costly.**
+
+> **Action governance offers a possible alternative: preserve intelligence development while bounding autonomous authority.**
+
+> **The resulting action/action outcome is a plausible competitive governance equilibrium, not yet a proven Nash equilibrium.**
+
+> **The real challenge is preventing defection into rapid development plus weak action control.**
+
+> **Good AI governance may ultimately become a competitive advantage.**
+
+---
+
 # Suggested Reading Path
 
 For a fast introduction:

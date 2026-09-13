@@ -648,7 +648,9 @@ Version 1.0.0 introduces five primary research documents:
 
 04-Autonomous-Impact-Threshold.md
 
-05- The-Governance-Target-Selection-Problem.md
+05-The-Governance-Target-Selection-Problem.md
+
+06-Competitive-AI-Governance-Capability-Limits-vs-Action-Limits.md
 ```
 
 Together they form the conceptual sequence:
