@@ -1064,7 +1064,7 @@ Scale Looping
 
 ## 1. Pre-AGI AI Action Governance
 
-`001-Pre-AGI-AI-Action-Governance.md`
+`01-Pre-AGI-AI-Action-Governance.md`
 
 The primary framework.
 
@@ -1078,7 +1078,7 @@ Core principle:
 
 ## 2. Scale-Looping Power and Pre-AGI Risk
 
-`002-Scale-Looping-Power-and-Pre-AGI-Risk.md`
+`02-Scale-Looping-Power-and-Pre-AGI-Risk.md`
 
 Explains why bounded AI can acquire major effective power through:
 
@@ -1098,7 +1098,7 @@ It also analyzes the limits of Scale Looping and distinguishes it from open-ende
 
 ## 3. AI Action Accountability Stack
 
-`003-AI-Action-Accountability-Stack.md`
+`03-AI-Action-Accountability-Stack.md`
 
 Defines responsibility across:
 
@@ -1117,7 +1117,7 @@ Core principle:
 
 ## 4. Autonomous Impact Threshold
 
-`004-Autonomous-Impact-Threshold.md`
+`04-Autonomous-Impact-Threshold.md`
 
 Defines when an ordinary AI tool becomes a consequential autonomous system requiring stronger controls.
 
@@ -1129,7 +1129,7 @@ Core principle:
 
 ## 5. The Governance Target Selection Problem
 
-`005-The-Governance-Target-Selection-Problem.md`
+`05-The-Governance-Target-Selection-Problem.md`
 
 Asks the foundational policy question:
 
@@ -1402,3 +1402,23 @@ It is to prevent intelligence from silently acquiring unbounded authority.
 > **Enable beneficial AI. Bound consequential action.**
 
 > **Do not wait for AGI.**
+
+---
+
+## Author
+
+Sizhe Tan\
+Independent Researcher
+
+GPT-Obot\
+AI Research Assistant
+
+2026
+
+DOI: TBD
+
+---
+
+## DBM-SI Series Repositories
+
+https://github.com/sizhet

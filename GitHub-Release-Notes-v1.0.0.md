@@ -640,15 +640,15 @@ For high-impact autonomous AI:
 Version 1.0.0 introduces five primary research documents:
 
 ```text
-001-Pre-AGI-AI-Action-Governance.md
+01-Pre-AGI-AI-Action-Governance.md
 
-002- Scale-Looping-Power-and-Pre-AGI-Risk.md
+02- Scale-Looping-Power-and-Pre-AGI-Risk.md
 
-003-AI-Action-Accountability-Stack.md
+03-AI-Action-Accountability-Stack.md
 
-004-Autonomous-Impact-Threshold.md
+04-Autonomous-Impact-Threshold.md
 
-005- The-Governance-Target-Selection-Problem.md
+05- The-Governance-Target-Selection-Problem.md
 ```
 
 Together they form the conceptual sequence:
