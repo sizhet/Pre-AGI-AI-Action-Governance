@@ -1064,7 +1064,7 @@ Scale Looping
 
 ## 1. Pre-AGI AI Action Governance
 
-`Pre-AGI-AI-Action-Governance.md`
+`001-Pre-AGI-AI-Action-Governance.md`
 
 The primary framework.
 
@@ -1078,7 +1078,7 @@ Core principle:
 
 ## 2. Scale-Looping Power and Pre-AGI Risk
 
-`Scale-Looping-Power-and-Pre-AGI-Risk.md`
+`002-Scale-Looping-Power-and-Pre-AGI-Risk.md`
 
 Explains why bounded AI can acquire major effective power through:
 
@@ -1098,7 +1098,7 @@ It also analyzes the limits of Scale Looping and distinguishes it from open-ende
 
 ## 3. AI Action Accountability Stack
 
-`AI-Action-Accountability-Stack.md`
+`003-AI-Action-Accountability-Stack.md`
 
 Defines responsibility across:
 
@@ -1117,7 +1117,7 @@ Core principle:
 
 ## 4. Autonomous Impact Threshold
 
-`Autonomous-Impact-Threshold.md`
+`004-Autonomous-Impact-Threshold.md`
 
 Defines when an ordinary AI tool becomes a consequential autonomous system requiring stronger controls.
 
@@ -1129,7 +1129,7 @@ Core principle:
 
 ## 5. The Governance Target Selection Problem
 
-`The-Governance-Target-Selection-Problem.md`
+`005-The-Governance-Target-Selection-Problem.md`
 
 Asks the foundational policy question:
 
